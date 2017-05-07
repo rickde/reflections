@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository you create a mets log that allows project tracking using commits along with other project management features. In order to use the GIT features a directory must be initialized.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+File are edited and commits added in the staging area, but files are only stored in the working directory and repository. The staging area offers a place to organize your thought before saving the changes.
