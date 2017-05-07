@@ -10,14 +10,14 @@ Often your first attempt at solving a problem is your most enlightend approach a
 
 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
 
-The pros are you save in logical expressible periods of your work flow that you and others can later understand. the cons we all forget to save and could loos our hard earned work due to system failure.
+The pros are you save in logical expressible periods of your work flow that you and others can later understand. the cons we all forget to save and could loss our hard earned work due to system failure.
 
 Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
 
-Git is designed for programers writing code using multiple interrelated files. Google docs is designed to handle a single doc of multiple sizes.
+Git is designed for coder writing code using multiple interrelated files. Google docs is designed to handle a single doc of multiple sizes.
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-I set my workspace up as demoed in the course and I'm looking forward to using Git with my current xCode project.
+I set my workspace up as instructed in the course and I'm looking forward to using Git with my current xCode project.
 
 
