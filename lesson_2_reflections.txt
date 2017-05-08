@@ -9,3 +9,7 @@ File are edited and commits added in the staging area, but files are only stored
 How can you use the staging area to make sure you have one commit per logical change? 
 
 By using the git diff --staged command you can see the files in the staging area.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you want to alter the master code to add a new version for a different device or language. Branches free you up to make major changes without breaking the master code.
