@@ -18,4 +18,8 @@ How do the diagrams help you visualize the branch structure?
 
 A drawn diagram uses a vsual model like branches on a tree and is easier to follow than the git --gragh.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branches creates one branch with changes and additions from both branches. the diagram uses the tree branch example to help us visualize the progresion of two coders work and how it will merge.
+
 
