@@ -22,4 +22,9 @@ What is the result of merging two branches together? Why do we represent it in t
 
 Merging two branches creates one branch with changes and additions from both branches. the diagram uses the tree branch example to help us visualize the progresion of two coders work and how it will merge.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merge reduces the time to merge two branches and give you the ability to manually work out ant conflicts that git can't resolve.
+
+
 
