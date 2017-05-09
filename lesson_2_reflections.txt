@@ -1,30 +1,47 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-When you initialize a repository you create a mets log that allows project tracking using commits along with other project management features. In order to use the GIT features a directory must be initialized.
+When you initialize a repository you create a mets log that allows 
+project tracking using commits along with other project management 
+features. In order to use the GIT features a directory must be 
+initialized.
 
-How is the staging area different from the working directory and the repository? What value do you think it offers?
+How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
 
-File are edited and commits added in the staging area, but files are only stored in the working directory and repository. The staging area offers a place to compose your commit.
+File are edited and commits added in the staging area, but files are only
+ stored in the working directory and repository. The staging area offers a
+ place to compose your commit.
 
-How can you use the staging area to make sure you have one commit per logical change? 
+How can you use the staging area to make sure you have one commit per
+ logical change? 
 
-By using the git diff --staged command you can see the files in the staging area.
+By using the git diff --staged command you can see the files in the 
+staging area.
 
-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+What are some situations when branches would be helpful in keeping your 
+history organized? How would branches help?
 
-When you want to alter the master code to add a new version for a different device or language. Branches free you up to make major changes without breaking the master code.
+When you want to alter the master code to add a new version for a 
+different device or language. Branches free you up to make major changes
+ without breaking the master code.
 
 How do the diagrams help you visualize the branch structure?
 
-A drawn diagram uses a vsual model like branches on a tree and is easier to follow than the git --gragh.
+A drawn diagram uses a vsual model like branches on a tree and is easier 
+to follow than the git --gragh.
 
-What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+What is the result of merging two branches together? Why do we represent
+ it in the diagram the way we do?
 
-Merging two branches creates one branch with changes and additions from both branches. the diagram uses the tree branch example to help us visualize the progresion of two coders work and how it will merge.
+Merging two branches creates one branch with changes and additions from
+ both branches. the diagram uses the tree branch example to help us 
+visualize the progresion of two coders work and how it will merge.
 
-What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+What are the pros and cons of Git’s automatic merging vs. always doing 
+merges manually?
 
-Automatic merge reduces the time to merge two branches and give you the ability to manually work out ant conflicts that git can't resolve.
+Automatic merge reduces the time to merge two branches and give you the 
+ability to manually work out ant conflicts that git can't resolve.
 
 
 
