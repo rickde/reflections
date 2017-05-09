@@ -4,7 +4,6 @@ your work local?
 To work with a group of developers or to make the project available to 
 the public.
 
-
 Why might you want to always pull changes manually rather than having Git 
 automatically stay up-to-date with your remote repository?
 
@@ -15,6 +14,6 @@ Describe the differences between forks, clones, and branches. When would
  you use one instead of another?
 
 A fork is GitHub clone of a project already on GitHub. A clone is a copy 
-of a project with aworking repositary a simple copy has all of the files
+of a project with a working repository a simple copy has all of the files
  without the repository. A branch is a piece of a project that is 
  connected to the master project, but can be worked on independently.
